@@ -1,0 +1,12 @@
+public class HogskolanDalarnaDemo{
+
+    public bool CheckIfDemo(check){
+        
+        if(check){
+            return true;
+        }else{
+            return false;
+        }
+    
+    }
+}
