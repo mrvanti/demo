@@ -2,7 +2,7 @@ public class HogskolanDalarnaDemo{
 
     public bool CheckIfDemo(check){
         
-        if(check){
+        if(check == false){
             return true;
         }else{
             return false;
